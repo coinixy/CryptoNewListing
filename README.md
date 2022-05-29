@@ -1,8 +1,13 @@
 # Crypto New Listing
 ### Receive exchange announcements from WebSocket immediately and without delay 
-#### (Get Binance announcement on time)
 
-<sub>We have designed a web socket so that users can receive and process exchange announcements without delay</sub>
+(Get Binance announcement on time)
+
+***We have designed a web socket so that users can receive and process exchange announcements without delay***
+
+### Join to [Telegram Channel](https://t.me/coinixy).
+
+
 
 ### WebSocket Endpoint
 ```
@@ -21,7 +26,7 @@ ws://coinixy.com:8080/ws
 ```
 
 ### Python example
-#### For example, you can run Python code and process incoming messages according to the Json instance.
+#### For example, you can run Python code and process incoming messages according to the ![Json](https://github.com/coinixy/CryptoNewListing#websocket-response-message-type) instance.
 ```
 pip install websocket-client
 ```
