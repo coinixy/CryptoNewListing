@@ -26,7 +26,7 @@ ws://coinixy.com:8080/ws
 ```
 
 ### Python example
-#### For example, you can run Python code and process incoming messages according to the ![Json](https://github.com/coinixy/CryptoNewListing#websocket-response-message-type) instance.
+#### For example, you can run Python code and process incoming messages according to the [Json](https://github.com/coinixy/CryptoNewListing#websocket-response-message-type) instance.
 ```
 pip install websocket-client
 ```
