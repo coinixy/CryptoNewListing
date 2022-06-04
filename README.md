@@ -13,6 +13,18 @@
 ```
 ws://coinixy.com:8080/ws
 ```
+After connecting to WebSocket, you should wait for new announcements from exchanges
+
+### Exchanges currently supported:
+
+- ##### Binance
+
+Wait for other exchanges
+
+### Message for successful connection to WebSocket:
+```
+{'status': 'ok'}
+```
 
 ### WebSocket Response Message Type
 ```
